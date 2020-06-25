@@ -1,0 +1,17 @@
+{
+    "author": [
+      "Gaba H"
+    ],
+    "bot_version": [
+      3,
+      0,
+      0
+    ],
+    "description": "Because [p]ping was too dry",
+    "hidden": false,
+    "install_msg": "Thank you for installing Marco! Get started with `[p]load marco`",
+    "requirements": [],
+    "short": "",
+    "tags": [
+    ]
+  }
