@@ -9,6 +9,6 @@ import asyncio # pylint: disable=import-error
 class marco(commands.Cog):
     """Alternative to [p]ping"""
 
-@commands.command()
-async def marco(self, ctx): # ?drop command
-    ctx.send('Polo!')
+    @commands.command()
+    async def marco(self, ctx): # ?drop command
+        ctx.send('Polo!')
