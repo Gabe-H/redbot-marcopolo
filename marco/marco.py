@@ -10,5 +10,5 @@ class marco(commands.Cog):
     """Alternative to [p]ping"""
 
 @commands.command()
-async def drop(self, ctx): # ?drop command
+async def marco(self, ctx): # ?drop command
     ctx.send('Polo!')
